@@ -1,0 +1,15 @@
+{
+	"name": "factoryspotifyprojshef",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdccb0fe-caef-4660-ba6b-d7cba9e7e84e",
+		"tenantId": "357ae26d-4fc4-4266-8246-b8a4ffcd6c75"
+	}
+}
